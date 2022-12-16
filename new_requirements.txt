@@ -1,2 +1,3 @@
 conda install pytorch torchvision torchaudio cpuonly -c pytorch
 gym[atari,box2d,classic_control]
+tensorflow
